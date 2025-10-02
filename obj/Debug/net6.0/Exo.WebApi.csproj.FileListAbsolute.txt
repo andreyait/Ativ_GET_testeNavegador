@@ -812,3 +812,4 @@ C:\Users\Andrey\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\obj\Debug\net6.0
 C:\Users\Andrey\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\obj\Debug\net6.0\Exo.WebApi.csproj.Up2Date
 C:\Users\Andrey\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\Andrey\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\obj\Debug\net6.0\ref\Exo.WebApi.dll
+C:\Users\Andrey\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
